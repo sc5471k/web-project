@@ -1,0 +1,58 @@
+body{
+	background-color:red;
+}
+
+h1{
+	background-color:blue;
+	text-align:center;
+display:inline-block;
+	padding:50px;
+margin:50px;
+}
+
+img{
+
+
+}
+
+div{
+		background-color:rgb(255,255,255);
+		text-align:center;
+}
+
+h2{
+	font-family:Arial;
+}
+
+p{
+	font-weight:bold;
+}
+
+#we{
+ background-color:rbga(250,245,10,1);
+}
+
+#menu{
+	text-align:center;
+	background-color:purple;
+	
+}
+
+a{
+
+}
+
+.q{
+		padding:40px;
+	color: white;
+	
+}
+
+
+.q:hover{
+	background-color:red;
+	
+}
+
+}
+}
